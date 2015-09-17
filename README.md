@@ -35,3 +35,8 @@ This can be cleaned up so that the content scripts on loads on the iGEM pages an
 
 The next step in developing this tool is to create a real iGEM "IDE" and move the buttons on the edit page to the side for easier access and too add grab and drop options for adding divs and other tags. On top of this is too add instructions. This would add a proper suite of features to take this tool to he next level.
 
+##Mind-The-Model
+
+###Using the Tool
+
+This tool is very much in alpha stage as it is currently experiencing some bugs however the visual rendering is working. To use the most current version you will need to have the newest version of UNITY game engine installed. Alternatively, if you wish to use the tool without the rendering we have provided visual studio solutions and projects to download here from github and run. Aside from this, look at this page in the future for further documentation.
