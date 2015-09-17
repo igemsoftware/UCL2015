@@ -33,3 +33,5 @@ The core of the work is located in the <b>script.js</b> file and is at the very 
 
 This can be cleaned up so that the content scripts on loads on the iGEM pages and then applies it to any textarea. Alternatively the scipt can be changed so that it targets any textarea. At this point it is six of one half-a-dozen of the other. 
 
+The next step in developing this tool is to create a real iGEM "IDE" and move the buttons on the edit page to the side for easier access and too add grab and drop options for adding divs and other tags. On top of this is too add instructions. This would add a proper suite of features to take this tool to he next level.
+
